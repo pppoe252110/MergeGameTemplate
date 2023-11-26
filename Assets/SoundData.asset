@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f761b746b70b8404eab58f81e698bfa0, type: 3}
+  m_Name: SoundData
+  m_EditorClassIdentifier: 
+  soundEffects:
+  - name: pop1
+    clip: {fileID: 8300000, guid: b598f534308825c4b959af704f32970e, type: 3}
+  - name: pop2
+    clip: {fileID: 8300000, guid: 06aacf23e9a170c4ca16977446bc2b4f, type: 3}
+  - name: pop3
+    clip: {fileID: 8300000, guid: 735d7f14e14760c46bd53e98491f1094, type: 3}
